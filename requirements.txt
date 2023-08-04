@@ -1,4 +1,4 @@
 langchain
 google-search-results
 openai
-dotenv
+python-dotenv
